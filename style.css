@@ -1,5 +1,5 @@
 {
-	 background: #0000;
+	background:#f8f8f8;
 }
 *{
 	padding:0;
@@ -14,15 +14,10 @@ a{
 	text-align:center;
 	text-decoration:none;
 }
- 
 #main-lord{
 	width:100%;
 	height:100vh;
-	background: url(https://i.postimg.cc/59qcnwsN/Msyy7BW.jpg) no-repeat center center fixed;,radial-gradient(#FA3F3F, #860F0F, #E05E5E 90%);
-	-webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+	background:url(https://i.postimg.cc/SRNccjbm/e8bb53c0de10c3f6f1104dfd62c3d792.gif)top left repeat ,radial-gradient(#FA3F3F, #860F0F, #E05E5E 90%);
 	font-family:var(--font);
 	color:white;
 	font-size:1em;
@@ -57,7 +52,7 @@ a{
 	height:67px;
 	line-height:67px;
 	font-size:2em;
-	color:#a30808;
+	color:#ea638c;
 	border-radius:50%;
 	background:white;
 	box-shadow:0 0 0 16px rgba(255,255,255,0), 0 0 0 33px rgba(255,255,255,0);
@@ -111,17 +106,17 @@ a{
 	border-radius:4px;
 	line-height:40px;
 	text-align:center;
-	color:#6a6e6b;
+	color: #920606;
 }
 .title-lord{
-	margin-top:160px;
+	margin-top:250px;
 	width:180px;
 	margin-left:90px;
 }
 .subtitle-lord{
-	width:260px;
+	width:360px;
 	margin-top:10px;
-	margin-left:50px;
+	margin-left:20px;
 	font-size:1.2em;
 }
 .social-lord{
@@ -182,7 +177,7 @@ a{
 }
 .btn-page-lord:hover{
 	box-shadow:0 5px rgba(234,99,40,.4), 0 0 30px 20px rgba(0,0,0,.2);
-	background:#a30808;
+	background:#ea638c;
 	color:white;
 }
 .box-video-lord{
@@ -253,7 +248,7 @@ a{
 	line-height:40px;
 	padding-left:0;
 	font-size:.6em;
-	color:#a30808;
+	color:#ea638c;
 	transition:all .3s;
 }
 .simbol-lord{
