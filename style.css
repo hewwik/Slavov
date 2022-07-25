@@ -63,6 +63,7 @@ a{
 }
 @keyframes pulse{
 	0%{
+		
 		box-shadow:0 0 0 0 white, 0 0 0 0 white;
 	}
 	100%{
